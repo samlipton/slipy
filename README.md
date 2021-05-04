@@ -2,4 +2,4 @@
 
 The Python codes in this repository were developed to handle, manipulate and analyse output from **DFT** programs. 
 
-At the moment, the coding is focused on dealing with OpenMX
+At the moment, the coding is focused on dealing with [OpenMX](http://openmx-square.org/openmx_man3.9/).
